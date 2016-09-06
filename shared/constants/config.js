@@ -16,6 +16,8 @@ export const bootstrapFailed = 'config:bootstrapFailed'
 export const updateFollowing = 'config:updateFollowing'
 export const updateFollowers = 'config:updateFollowers'
 
+export const readAppVersion = 'config:readAppVersion'
+
 export const changeKBFSPath = 'config:changeKBFSPath'
 
 export const devConfigLoading = 'config:devConfigLoading'
